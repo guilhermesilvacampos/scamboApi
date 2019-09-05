@@ -1,0 +1,2 @@
+# scamboApi
+api correta
